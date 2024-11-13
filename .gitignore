@@ -1,0 +1,11 @@
+*.tmp
+*.log
+__pycache__/
+.pytest_cache
+.venv
+*.xml
+log.html
+poetry.lock
+report.html
+pyproject.toml
+*.png
